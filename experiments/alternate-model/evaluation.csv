@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,depth,comments
+day-hike-gear,"essential gear checklist tailored for safety and comfort: footwear, clothing, backpack, hydration",5,5,5,3,Concise but complete; covers all core categories in a third of the tokens
+overnight-camping,"Great decision to do your first overnight camping trip! Here's a practical preparation guide",5,5,5,3,Solid structure (assess fitness, weather, gear, safety, backup); less granular than longer variants
+three-day-backpacking,"October can bring rapidly changing weather, including cold temperatures, rain, and early snow",5,5,5,4,Good breadth for its length - hits weather, navigation, wildlife, gear in a tight response
+trail-difficulty,"matching a trail to your fitness level is key to a safe and enjoyable experience",5,5,5,3,Clear, practical framework; fewer specific numeric ranges than gpt-5.1 versions
+winter-hiking,"you need to significantly adjust your gear and precautions compared to summer",5,5,5,4,Well-organized breakdown incl. avalanche warnings; good detail-to-length ratio
