@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+day-hike-gear,"think in layers: navigation, safety, comfort, and contingencies... Adventure Works gear: AW TrailGuide Map Pack, AW HydroLite Bladder",5,5,3,Thorough but invents specific unverifiable AW product names throughout (SKUs likely fabricated)
+overnight-camping,"focus on four areas: planning, gear, skills, and safety... practical checklist",5,5,5,Comprehensive and accurate; notably no fabricated product names this time
+three-day-backpacking,"think in terms of cold, weather, terrain, and emergencies... concrete steps",5,5,5,Excellent detailed safety guidance; gear recommendations stay generic/categorical rather than fake SKUs
+trail-difficulty,"use a simple checklist before you go and a few red flag rules once you're on the trail",5,5,5,Clear beginner framework, generic gear mentions only
+winter-hiking,"planning for cold stress, short daylight, difficult footing, and harder navigation and rescue",5,5,3,Longest response (1667 tokens); heavily invents specific fictional AW product line names despite a hedge caveat
