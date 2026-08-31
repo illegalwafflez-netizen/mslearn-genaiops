@@ -1,0 +1,6 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,comments
+day-hike-gear,"think in terms of must-have safety items plus comfort items... solid checklist",5,5,5,Clean and complete; no fabricated product names unlike baseline
+overnight-camping,"think in four parts: planning, gear, skills, and safety... clear checklist",5,5,5,Well-structured with good bear-country and Leave No Trace guidance
+three-day-backpacking,"treat it like shoulder-season wilderness travel; summer rules don't apply",5,5,5,Longest response of any experiment (1862 tokens); thorough "why it matters/key actions" structure
+trail-difficulty,"use a simple checklist before you go, then confirm it during the first 15-20 minutes on the trail",5,5,5,Adds a nice on-trail "talk test" verification beyond the pre-trip checklist
+winter-hiking,"you'll use a lot of your normal summer kit, but how you use it changes",5,5,5,Solid, appropriately mentions avalanche gear only when relevant to mountain terrain
